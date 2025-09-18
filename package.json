@@ -1,0 +1,12 @@
+{
+  "name": "jeffresc-dev-redir-handler",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "wrangler": "^4.37.1"
+  },
+  "packageManager": "pnpm@10.16.1"
+}
