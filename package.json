@@ -8,5 +8,5 @@
   "dependencies": {
     "wrangler": "^4.37.1"
   },
-  "packageManager": "pnpm@10.18.3"
+  "packageManager": "pnpm@10.19.0"
 }
